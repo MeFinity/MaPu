@@ -11,6 +11,20 @@ textarea {
     border-width: 2px;
     border-color: #fff;
 }
+.betterarea {
+        display: block;
+        width: 70%;
+        -webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+}
+.betterarea2 {
+    display: block;
+    width: 40%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
 center {
     display: flex;
     justify-content: center;
